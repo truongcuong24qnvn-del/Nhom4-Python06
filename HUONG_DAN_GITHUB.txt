@@ -1,0 +1,53 @@
+HUONG DAN GITHUB - NHOM 4 PYTHON 06
+
+A. Tao tai khoan
+1. Mo https://github.com/
+2. Chon Sign up, dang ky email va xac minh.
+3. Moi thanh vien nen tao tai khoan rieng va gui username GitHub cho nhom truong.
+
+B. Nhom truong tao repository
+1. Dang nhap GitHub.
+2. Nhan dau + goc tren ben phai > New repository.
+3. Repository name: Nhom4-Python06
+4. Chon Public (de giang vien co the xem).
+5. Co the chon Add a README file, sau do nhan Create repository.
+
+C. Moi thanh vien
+1. Mo repository Nhom4-Python06.
+2. Vao Settings > Collaborators (hoac Collaborators and teams).
+3. Chon Add people.
+4. Nhap username GitHub cua Thach Thanh Tuan va Nguyen Thi Minh Thu.
+5. Gui loi moi; tung thanh vien phai chap nhan loi moi.
+Luu y: Khong gui mat khau GitHub cho nhau.
+
+D. Tai file len website GitHub (khong can cai Git)
+1. Mo repository.
+2. Chon Add file > Upload files.
+3. Keo cac file .py, README.md, phan_cong_nhiem_vu.txt,
+   HUONG_DAN_GITHUB.txt va link.txt vao trang.
+4. Nhap commit message, vi du: "Upload bai tap nhom".
+5. Nhan Commit changes.
+
+E. Moi thanh vien commit bai cua minh
+1. Thanh vien duoc moi mo repository.
+2. Chon Add file > Upload files, tai file bai minh phu trach len.
+3. Nhap commit message ro rang va nhan Commit changes.
+Neu nhom lam chung mot lan, nhom truong co the upload truoc tat ca file,
+nhung can dam bao tung thanh vien co dong gop va commit theo yeu cau giao vien.
+
+F. Cap nhat link.txt va nop bai
+1. Mo trang repository.
+2. Sao chep URL tren thanh dia chi, dang:
+   https://github.com/TEN_USERNAME/Nhom4-Python06
+3. Mo link.txt, thay dong mau bang URL that.
+4. Upload lai link.txt va commit.
+5. Mo URL trong cua so an danh hoac trinh duyet chua dang nhap de kiem tra Public.
+6. Nop file link.txt theo cach giao vien yeu cau.
+
+G. Danh sach kiem tra
+[ ] Repository ten Nhom4-Python06 va Public
+[ ] Da moi hai thanh vien va ho da chap nhan
+[ ] Da tai len cac file bai1 den bai4
+[ ] Da co phan_cong_nhiem_vu.txt
+[ ] Da cap nhat link.txt bang link that
+[ ] Da kiem tra link mo duoc khi chua dang nhap

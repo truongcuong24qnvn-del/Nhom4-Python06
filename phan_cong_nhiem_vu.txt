@@ -1,0 +1,26 @@
+PHAN CONG NHIEM VU - NHOM 4 - PYTHON 06
+
+1. Luong Truong Viet Cuong - Nhom truong
+   - Tao repository GitHub Public ten Nhom4-Python06.
+   - Quan ly repository, moi thanh vien va tong hop cac file.
+   - Phu trach Bai 1: PersonInfo (ke thua nhieu lop).
+   - Kiem tra code va nop link repository.
+
+2. Thach Thanh Tuan - Thanh vien
+   - Phu trach Bai 2: Lop truu tuong, chu vi va dien tich cac hinh.
+   - Commit file bai2_hinh.py len repository.
+
+3. Nguyen Thi Minh Thu - Thanh vien
+   - Phu trach Bai 3: Lop SanPham, giam gia va ton kho.
+   - Commit file bai3_san_pham.py len repository.
+
+4. Bai 4 - Wordplay
+   - Nhom truong phan cong bo sung cho mot thanh vien theo thong nhat cua nhom.
+   - File: bai4_wordplay.py.
+
+Quy uoc:
+- Moi thanh vien tu kiem tra file cua minh truoc khi commit.
+- Commit message can ngan gon, vi du: "Them bai 2 hinh".
+- Ten va phan cong co the dieu chinh theo thoa thuan thuc te cua nhom.
+
+Ngay phan cong: 24/10/2026
